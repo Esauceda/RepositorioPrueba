@@ -14,5 +14,6 @@ public class Main {
         numero2 = teclado.nextInt();
         suma = numero1 + numero2;
         System.out.println("La suma es: " + suma);
+
     }
 }
